@@ -350,6 +350,104 @@
       "story": true,
       "post_at": "2026-11-09T03:45:00+03:00",
       "approved": true
+    },
+    {
+      "id": "w1-01",
+      "video": "videos/w1-01.mp4",
+      "caption": "Your best moment is buried somewhere in a 2-hour stream. Peaklip finds it. 🎮\nFree 3-day trial at peaklip.com\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-09T13:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-02",
+      "video": "videos/w1-02.mp4",
+      "caption": "3 signs a moment from your stream will hook people. Save this for your next clip.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-09T20:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-03",
+      "video": "videos/w1-03.mp4",
+      "caption": "From a 2-hour stream to clips in minutes. You keep the final say.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-10T13:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-04",
+      "video": "videos/w1-04.mp4",
+      "caption": "Most people scroll with the sound off. Captions keep them watching.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-10T20:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-05",
+      "video": "videos/w1-05.mp4",
+      "caption": "Myth: good clips take hours of editing. Here's what Peaklip does instead.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-11T13:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-06",
+      "video": "videos/w1-06.mp4",
+      "caption": "Webcam + gameplay, stacked for vertical automatically. Change the framing on any clip.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-11T20:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-07",
+      "video": "videos/w1-07.mp4",
+      "caption": "Short clips are won in the first second. 3 ways to win it.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-12T13:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-08",
+      "video": "videos/w1-08.mp4",
+      "caption": "Nothing posts without you. Approve a clip, then it goes out.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-12T20:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-09",
+      "video": "videos/w1-09.mp4",
+      "caption": "Your footage stays on your PC. Transcription, moment detection and editing all run locally.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-13T13:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-10",
+      "video": "videos/w1-10.mp4",
+      "caption": "15, 30 or 60 seconds? Match the length to the moment.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-13T20:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-11",
+      "video": "videos/w1-11.mp4",
+      "caption": "1 credit = 1 clip. Re-renders are free. Try it free for 3 days.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-14T13:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-12",
+      "video": "videos/w1-12.mp4",
+      "caption": "Make every clip yours: trim, fix captions, zoom on reactions, add your music and logo.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-14T20:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-13",
+      "video": "videos/w1-13.mp4",
+      "caption": "Do you need a gaming PC for Peaklip? Short answer: no.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-15T13:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "w1-14",
+      "video": "videos/w1-14.mp4",
+      "caption": "Find the peak. Post the clip. Your streams, turned into Shorts, Reels and TikToks.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
+      "post_at": "2026-11-15T20:00:00+03:00",
+      "approved": true
     }
   ],
   "max_per_day": 20
