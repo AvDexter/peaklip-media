@@ -91,6 +91,90 @@
       "caption": "Find the peak. 🏔️\nPeaklip turns your long streams into short clips, right on your PC.\n\n#streamer #gamingclips #contentcreator #youtubeshorts #reels",
       "post_at": "2026-11-09T01:35:00+03:00",
       "approved": true
+    },
+    {
+      "id": "story-how-0",
+      "image": "stories/how-0.jpg",
+      "story": true,
+      "post_at": "2026-11-09T01:45:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-how-1",
+      "image": "stories/how-1.jpg",
+      "story": true,
+      "post_at": "2026-11-09T01:50:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-how-2",
+      "image": "stories/how-2.jpg",
+      "story": true,
+      "post_at": "2026-11-09T01:55:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-how-3",
+      "image": "stories/how-3.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:00:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-how-4",
+      "image": "stories/how-4.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:05:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-faq-1",
+      "image": "stories/faq-1.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:10:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-faq-2",
+      "image": "stories/faq-2.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:15:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-faq-3",
+      "image": "stories/faq-3.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:20:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-faq-4",
+      "image": "stories/faq-4.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:25:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-faq-5",
+      "image": "stories/faq-5.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:30:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-faq-6",
+      "image": "stories/faq-6.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:35:00+03:00",
+      "approved": true
+    },
+    {
+      "id": "story-updates-1",
+      "image": "stories/updates-1.jpg",
+      "story": true,
+      "post_at": "2026-11-09T02:40:00+03:00",
+      "approved": true
     }
   ],
   "max_per_day": 15
