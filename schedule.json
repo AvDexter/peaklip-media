@@ -462,6 +462,13 @@
       "post_at": "2026-11-15T20:00:00+03:00",
       "approved": true,
       "share_to_feed": false
+    },
+    {
+      "id": "story-update-0.19",
+      "image": "stories/updates-0.19.jpg",
+      "post_at": "2026-11-09T16:43:00+03:00",
+      "approved": true,
+      "story": true
     }
   ],
   "max_per_day": 20
