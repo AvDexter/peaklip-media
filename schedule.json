@@ -493,6 +493,20 @@
       "approved": true,
       "x": true,
       "instagram": false
+    },
+    {
+      "id": "story-pricing-1",
+      "image": "stories/pricing-1.jpg",
+      "post_at": "2026-11-12T01:47:00+03:00",
+      "approved": true,
+      "story": true
+    },
+    {
+      "id": "story-pricing-2",
+      "image": "stories/pricing-2.jpg",
+      "post_at": "2026-11-12T01:52:00+03:00",
+      "approved": true,
+      "story": true
     }
   ],
   "max_per_day": 20
