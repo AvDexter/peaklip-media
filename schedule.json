@@ -483,6 +483,16 @@
       "post_at": "2026-11-11T13:52:00+03:00",
       "approved": true,
       "story": true
+    },
+    {
+      "id": "x-test-01",
+      "video": "videos/w1-03.mp4",
+      "caption": "",
+      "x_text": "2 hours of stream. The moments worth posting are buried in there.\n\nPeaklip finds them and turns them into Shorts, Reels and TikToks. Windows 10 & 11, free 3-day trial.",
+      "post_at": "2026-11-12T01:25:00+03:00",
+      "approved": true,
+      "x": true,
+      "instagram": false
     }
   ],
   "max_per_day": 20
