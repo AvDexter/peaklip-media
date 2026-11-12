@@ -421,7 +421,9 @@
       "caption": "Nothing posts without you. Approve a clip, then it goes out.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
       "post_at": "2026-11-12T20:00:00+03:00",
       "approved": true,
-      "share_to_feed": false
+      "share_to_feed": false,
+      "x": true,
+      "x_text": "Nothing goes out until you say so. Peaklip cuts the clip; you hit approve.\n\n#streamer #gamingclips"
     },
     {
       "id": "w1-09",
@@ -429,7 +431,9 @@
       "caption": "Your footage stays on your PC. Transcription, moment detection and editing all run locally.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
       "post_at": "2026-11-13T13:00:00+03:00",
       "approved": true,
-      "share_to_feed": false
+      "share_to_feed": false,
+      "x": true,
+      "x_text": "Your VODs never leave your PC. Peaklip finds the moments and edits the clips right on your machine.\n\n#streamer #twitchstreamer"
     },
     {
       "id": "w1-10",
@@ -437,7 +441,9 @@
       "caption": "15, 30 or 60 seconds? Match the length to the moment.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
       "post_at": "2026-11-13T20:00:00+03:00",
       "approved": true,
-      "share_to_feed": false
+      "share_to_feed": false,
+      "x": true,
+      "x_text": "Not every moment needs 60 seconds. Some hit harder at 15. Pick the length that fits the clip.\n\n#gamingclips #contentcreator"
     },
     {
       "id": "w1-11",
@@ -445,7 +451,9 @@
       "caption": "1 credit = 1 clip. Re-renders are free. Try it free for 3 days.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
       "post_at": "2026-11-14T13:00:00+03:00",
       "approved": true,
-      "share_to_feed": false
+      "share_to_feed": false,
+      "x": true,
+      "x_text": "One credit, one clip. Re-render it as many times as you like for free. Try it for 3 days.\n\n#streamer #gamingclips"
     },
     {
       "id": "w1-12",
@@ -453,7 +461,9 @@
       "caption": "Make every clip yours: trim, fix captions, zoom on reactions, add your music and logo.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
       "post_at": "2026-11-14T20:00:00+03:00",
       "approved": true,
-      "share_to_feed": false
+      "share_to_feed": false,
+      "x": true,
+      "x_text": "Trim it, fix the captions, zoom in on the reaction, drop your logo on it. It's your clip.\n\n#contentcreator #twitchstreamer"
     },
     {
       "id": "w1-13",
@@ -461,7 +471,9 @@
       "caption": "Do you need a gaming PC for Peaklip? Short answer: no.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
       "post_at": "2026-11-15T13:00:00+03:00",
       "approved": true,
-      "share_to_feed": false
+      "share_to_feed": false,
+      "x": true,
+      "x_text": "You don't need a gaming PC to make clips from your streams.\n\n#streamer #gamingclips"
     },
     {
       "id": "w1-14",
@@ -469,7 +481,9 @@
       "caption": "Find the peak. Post the clip. Your streams, turned into Shorts, Reels and TikToks.\n\n#streamer #gamingclips #contentcreator #twitchstreamer #youtubeshorts #reels",
       "post_at": "2026-11-15T20:00:00+03:00",
       "approved": true,
-      "share_to_feed": false
+      "share_to_feed": false,
+      "x": true,
+      "x_text": "Hours of stream in. The best moments out, ready for Shorts, Reels and TikToks.\n\n#streamer #twitchstreamer"
     },
     {
       "id": "story-update-0.19",
@@ -522,6 +536,16 @@
       "post_at": "2026-11-12T13:31:00+03:00",
       "approved": true,
       "story": true
+    },
+    {
+      "id": "x-w1-07",
+      "video": "videos/w1-07.mp4",
+      "caption": "",
+      "post_at": "2026-11-12T13:42:00+03:00",
+      "approved": true,
+      "x": true,
+      "instagram": false,
+      "x_text": "Viewers decide in the first second whether your clip is worth watching. Make that second count.\n\n#streamer #gamingclips"
     }
   ],
   "max_per_day": 20
