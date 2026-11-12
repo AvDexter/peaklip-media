@@ -546,6 +546,13 @@
       "x": true,
       "instagram": false,
       "x_text": "Viewers decide in the first second whether your clip is worth watching. Make that second count.\n\n#streamer #gamingclips"
+    },
+    {
+      "id": "story-update-0.23.0",
+      "image": "stories/updates-0.23.0.jpg",
+      "post_at": "2026-11-12T20:32:00+03:00",
+      "approved": true,
+      "story": true
     }
   ],
   "max_per_day": 20
