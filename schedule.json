@@ -560,6 +560,13 @@
       "post_at": "2026-11-12T22:49:00+03:00",
       "approved": true,
       "story": true
+    },
+    {
+      "id": "story-update-0.24.0",
+      "image": "stories/updates-0.24.0.jpg",
+      "post_at": "2026-11-13T18:10:00+03:00",
+      "approved": true,
+      "story": true
     }
   ],
   "max_per_day": 20
