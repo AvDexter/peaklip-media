@@ -787,6 +787,19 @@
       "post_at": "2026-11-16T15:34:22+03:00",
       "approved": true,
       "story": true
+    },
+    {
+      "id": "w2-01b",
+      "video": "videos/w2-01.mp4",
+      "caption": "Two hours into last night's stream you screamed. Nobody who missed it live will ever see it, unless it becomes a clip.\n\nPeaklip reads the whole VOD, finds moments where something happens AND you react, and cuts them into vertical clips with captions. You approve each one.\n\nFree for 3 days on Windows, link in bio.\n\n#streamer #twitchstreamer #gamingclips",
+      "post_at": "2026-11-16T20:30:00+03:00",
+      "approved": true,
+      "share_to_feed": false,
+      "x": false,
+      "youtube": true,
+      "yt_title": "Your best scream is buried two hours into last night's VOD #shorts",
+      "yt_description": "Peaklip reads your whole stream and finds the moments where something happens and you react, then cuts them into vertical clips.\nTry Peaklip free for 3 days: https://peaklip.com\n#streamer #twitchclips #shorts",
+      "instagram": false
     }
   ],
   "max_per_day": 20
