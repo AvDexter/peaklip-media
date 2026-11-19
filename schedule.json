@@ -800,6 +800,13 @@
       "yt_title": "Your best scream is buried two hours into last night's VOD #shorts",
       "yt_description": "Peaklip reads your whole stream and finds the moments where something happens and you react, then cuts them into vertical clips.\nTry Peaklip free for 3 days: https://peaklip.com\n#streamer #twitchclips #shorts",
       "instagram": false
+    },
+    {
+      "id": "story-update-0.29.0",
+      "image": "stories/updates-0.29.0.jpg",
+      "post_at": "2026-11-19T03:28:22+03:00",
+      "approved": true,
+      "story": true
     }
   ],
   "max_per_day": 20
