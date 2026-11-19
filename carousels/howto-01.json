@@ -1,0 +1,9 @@
+{"id": "howto-01", "slides": [
+ {"kind": "cover", "kicker": "HOW TO", "title": "3 hours of stream. 5 clips.", "sub": "The whole process, in 5 steps."},
+ {"kind": "step", "n": 1, "title": "Import your stream", "text": "Drop in last night's recording. It stays on your PC.", "visual": "import"},
+ {"kind": "step", "n": 2, "title": "Peaklip finds the moments", "text": "It lists the best ones and rates each Great or Good, so you don't scrub through hours.", "visual": "moments"},
+ {"kind": "step", "n": 3, "title": "Pick your look", "text": "Choose a caption style and a layout. Every clip comes out 9:16.", "visual": "look"},
+ {"kind": "step", "n": 4, "title": "Check and approve", "text": "Watch each clip. Nothing is exported or posted until you approve it.", "visual": "approve"},
+ {"kind": "step", "n": 5, "title": "Post everywhere", "text": "Schedule to YouTube, Instagram and TikTok from one place.", "visual": "post"},
+ {"kind": "cta", "title": "Try it free for 3 days.", "sub": "Link in bio. Windows 10 & 11."}
+]}
