@@ -820,6 +820,21 @@
       "youtube": true,
       "yt_title": "Your next Short is already in your VOD #shorts",
       "yt_description": "Peaklip finds the best moments in your stream, frames webcam and gameplay, adds captions, and posts only what you approve.\nTry Peaklip free for 3 days: https://peaklip.com\n#streamer #gamingclips #shorts"
+    },
+    {
+      "id": "carousel-howto-01",
+      "images": [
+        "images/howto-01/1.jpg",
+        "images/howto-01/2.jpg",
+        "images/howto-01/3.jpg",
+        "images/howto-01/4.jpg",
+        "images/howto-01/5.jpg",
+        "images/howto-01/6.jpg",
+        "images/howto-01/7.jpg"
+      ],
+      "caption": "3 hours of stream. 5 clips. Here's the whole process:\n\n1. Import your stream\n2. Peaklip finds the moments and rates them\n3. Pick a caption style and layout\n4. Check each clip and approve it\n5. Post to YouTube, Instagram and TikTok\n\nNothing goes out until you approve it. Try it free for 3 days, link in bio.\n\n#streamer #twitchstreamer #gamingclips #contentcreator #shorts",
+      "post_at": "2026-11-19T20:25:00+03:00",
+      "approved": true
     }
   ],
   "max_per_day": 20
